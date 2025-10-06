@@ -1,14 +1,8 @@
-Absolutely! Here's a professional, clear, and user-friendly **`README.md`** for your GitHub repository. It includes an overview, architecture diagram (using Mermaid), prerequisites, deployment instructions (console + CLI), testing steps, and cleanup guidance.
-
----
-
 # 🌐 Highly Available Web App on AWS with CloudFormation
 
 Deploy a secure, resilient "Hello World" web application on AWS using **Infrastructure as Code (IaC)** with **AWS CloudFormation**. This template provisions a complete, production-ready architecture—including VPC, public/private subnets, NAT Gateway, Application Load Balancer, and Auto Scaling Group—all in a single stack.
 
 > ✨ **Fully automated. One-click deploy. One-click destroy.**
-
-![Architecture Diagram](#architecture)
 
 ---
 
