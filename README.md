@@ -1,6 +1,7 @@
 # 🌐 Highly Available Web App on AWS with CloudFormation
 
-Deploy a secure, resilient "Hello World" web application on AWS using **Infrastructure as Code (IaC)** with **AWS CloudFormation**. This template provisions a complete, production-ready architecture—including VPC, public/private subnets, NAT Gateway, Application Load Balancer, and Auto Scaling Group—all in a single stack.
+Deploy a secure, resilient "Hello World" web application on AWS using **Infrastructure as Code (IaC)** with **AWS CloudFormation**. This template provisions a complete, production-ready architecture. This includes VPC, public/private subnets, NAT Gateway, Application Load Balancer, and Auto Scaling Group, all in a single stack.
+You can read the article [here](https://omiete-projects.hashnode.dev/aws-cloudformation-how-to-ensure-high-availability-for-your-application).
 
 > ✨ **Fully automated. One-click deploy. One-click destroy.**
 
